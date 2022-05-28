@@ -4,6 +4,8 @@
 
 <img src="assets/accessories.mp4" width="250">
 
+assets/accessory_app.mp4
+
 Inspired on: https://www.youtube.com/channel/UCU0XSqz_hWLJbmlr7kCmvAg
 
 The Playlist: https://www.youtube.com/playlist?list=PLJ5EAGz05Q3FJG96SH8GoWcSUg8IHwtnt
