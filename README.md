@@ -2,7 +2,6 @@
 
 ---ScreenShots & Videos---
 
-<img src="assets/accessories.mp4" width="250">
 
 Inspired on: https://www.youtube.com/channel/UCU0XSqz_hWLJbmlr7kCmvAg
 
